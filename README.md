@@ -1,7 +1,4 @@
-// Hi, I’m @Furrciak , im from Poland
-
-// Translator , also coder simple things , electrician , 3D printoholic
-
-// Reach me via telegram account with nickname "Furrciak" 
+// Translaton, ham radio amateur, IT, 3D printoholic
+// Reach me via telegram - https://t.me/R4DI0WSKI
 
 
